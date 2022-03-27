@@ -1,6 +1,8 @@
-# traversy_dom_crash_course
+# The Odin Project - Calculator
 
-This is a crash course into DOM manipulation for Javascript. It is created by
-Brad Traversy. Link: https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s&index=2&ab_channel=TraversyMedia
+## INTRODUCTION
 
-The code to it can be found here: https://codepen.io/bradtraversy/pen/Bwapow
+Hello and welcome to this project. It is about building a client-side calculator with different functions.
+Follow through "The Odin Project (TOP)" and learn to build one on your own.
+
+[![The Odin Project](https://img.shields.io/badge/TOP-Link-blue)](https://www.theodinproject.com/)
